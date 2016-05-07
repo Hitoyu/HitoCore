@@ -1,0 +1,7 @@
+main: me.hitoyu.hitocore.hitocore
+name: ${project.artifactId}
+description: ${project.description}
+version: ${project.version}
+author: Hitoyu5
+load: STARTUP
+loadbefore: [ANT]
